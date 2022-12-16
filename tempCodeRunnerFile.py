@@ -1,0 +1,1 @@
+st.button("Process more files...", type="primary", on_click=reset_app)
